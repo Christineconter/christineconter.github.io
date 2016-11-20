@@ -3,12 +3,14 @@
 
 html{
 	background-color:#ecf0f1;
+	min-height: 100%;
 }
 
 body{
 	background: none;
 	color: #69707a;
-	font-family: arial; 
+	font-family: arial;
+	min-height: 100%; 
 }
 
 strong{color: #222324;}
@@ -49,4 +51,5 @@ background-repeat:repeat-x;background-size: 300PX;
 background-size: cover;
 color: white;
 margin-bottom: 0px;
+min-height: 100%;
 }
