@@ -40,3 +40,9 @@ border-color: #e05164;}
 .description{ background-image: url("http://www.alternativesante.fr/upload/cache/medias/aloe_w590_h390_r4_q90.jpg"); 
 background-repeat:repeat-x;background-size: 400PX;
 }
+
+/* Additional stuff for index.html page */
+.jumbotron {
+	background-image: url(https://www.mrsmithworldphotography.com/photos/City-Skyline-16.jpg);
+background-size: cover;
+color: white;}
