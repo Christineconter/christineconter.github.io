@@ -13,7 +13,8 @@ body{
 
 strong{color: #222324;}
 
-.navbar{background:#e16879;}
+.navbar{background:#e16879;
+margin-bottom: 0px;}
 
 .navbar-title{color: white;}
 
@@ -45,4 +46,5 @@ background-repeat:repeat-x;background-size: 400PX;
 .jumbotron {
 	background-image: url(http://images.metroscenes.com/images/2012/black-and-white-city-skylines/black_and_white_london_metroscenes.com_05.jpg);
 background-size: cover;
-color: white;}
+color: white;
+margin-bottom: 0px;}
